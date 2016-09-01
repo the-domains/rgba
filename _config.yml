@@ -1,0 +1,14 @@
+layout_spectrum: 0.47207060526125133
+typography_spectrum: 0.5076288525015116
+color:
+  brandStrength: 0.41273680748417974
+  lightness: 0.7514374949969351
+  saturation: 0.47444912628270686
+  rhythmicContrast: 0.3874887595884502
+  brandColors:
+    - '#000407'
+    - '#16899E'
+    - '#164654'
+    - '#981C20'
+    - '#B18D53'
+name: RGBa
